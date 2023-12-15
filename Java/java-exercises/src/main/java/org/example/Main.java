@@ -3,7 +3,6 @@ package org.example;
 import org.example.basic.BasicOne;
 import org.example.basic.Dummies;
 import org.example.basic.TiposPrimitivos;
-
 import java.math.BigDecimal;
 import java.util.Locale;
 import java.util.Scanner;
@@ -12,8 +11,6 @@ import java.util.Scanner;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-
-
 
         boolean teste;
         System.out.println("my teste");
