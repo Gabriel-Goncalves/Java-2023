@@ -6,6 +6,7 @@ public class BasicOne {
 
     public static void setup() {
         System.out.println("Witch one do you wanna run?");
+        System.out.println("0 - Dummy");
         System.out.println("1 - Circle area");
         System.out.println("2 - Fahrenheit to Celsius");
 
